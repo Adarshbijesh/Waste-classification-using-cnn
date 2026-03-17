@@ -115,7 +115,7 @@ scikit-learn
 |---|---|---|
 | Training | 8 GB RAM, CPU | 16 GB RAM, NVIDIA GPU (CUDA) |
 | Full model inference | 4 GB RAM | 8 GB RAM |
-| TinyML inference | 256 MB RAM | Raspberry Pi 4 or better |
+
 
 > The training script auto-detects GPU availability and will use it if present.
 
